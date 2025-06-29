@@ -37,7 +37,7 @@ This Python project estimates a user's **cognitive load** in real time using web
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cognitive-load-estimator.git
+git clone https://github.com/Mdabaan404/cognitive-load-estimator.git
 cd cognitive-load-estimator
 
 
